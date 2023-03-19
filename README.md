@@ -15,3 +15,7 @@ Tired with typing test having random snippets of words? How about actual code sn
 
 # Theme based on your local settings
 ![SCR-20230318-tlz](https://user-images.githubusercontent.com/84165564/226111777-56b9cae1-7386-425b-96cf-4a0788e07d39.png)
+
+# Run locally
+- `cd` into folder
+- `npm parcel index.html`
