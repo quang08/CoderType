@@ -1,5 +1,5 @@
 # Coder Type
-Tired of typing test with random snippets of words? How about actual code snippets to test your coding speed :)
+Tired with typing test having random snippets of words? How about actual code snippets to test your coding speed :)
 
 # Home
 - Select a Repo to test your typing speed!
